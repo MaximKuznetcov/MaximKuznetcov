@@ -67,4 +67,13 @@
   <tr><td>Мобильное тестирование</td><td><a href="https://github.com/MaximKuznetcov/mobile-">Перейти</a></td></tr>
 </table>
 
+<hr/>
+
+<h2 align="center">📫 Связь</h2>
+
+<p align="center">
+  <a href="mailto:maksimkuznetsovqa@mail.ru" target="_blank">📧 Email</a> • 
+  <a href="https://t.me/JooMaks" target="_blank">💬 Telegram</a>
+</p>
+
 <p align="center">Спасибо, что заглянули! 😊</p>
