@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/MaximKuznetcov/portfolio/main/assets/d20_critical_bug.gif" width="180" alt="Critical Bug D20"/>
+      <img src="assets/critical_bug.png" width="180" alt="Критический баг"/>
     </td>
   </tr>
 </table>
