@@ -6,77 +6,79 @@
 
 ---
 
-## 🎯 Цели и интересы
+<h2 align="center">🎯 Цели и интересы</h2>
 
-- Развивать навыки в тестировании API, баз данных и автоматизации.
-- Создавать удобную и понятную тестовую документацию.
-- Изучать новые инструменты для повышения качества работы.
+<ul>
+  <li>Развивать навыки в тестировании API, баз данных и автоматизации.</li>
+  <li>Создавать удобную и понятную тестовую документацию.</li>
+  <li>Изучать новые инструменты для повышения качества работы.</li>
+</ul>
 
 ---
 
-## 📚 Сейчас изучаю
+<h2 align="center">🚀 Сейчас изучаю</h2>
 
-- Postman для тестирования API  
-- SQL и базы данных (MySQL, MongoDB)  
-- Продвинутые техники тест-дизайна  
+<ul>
+  <li>Postman для тестирования API</li>
+  <li>SQL и базы данных (MySQL, MongoDB)</li>
+  <li>Продвинутые техники тест-дизайна</li>
+</ul>
 
 ---
 
 <h2 align="center">🛠 Инструменты</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
 ---
 
-## 📂 Test Artifacts
+<h2 align="center">📂 Test Artifacts</h2>
 
-<p align="center">
-  <table>
-    <tr>
-      <th>Категория</th>
-      <th>Ссылка</th>
-    </tr>
-    <tr>
-      <td>Теория и тест-дизайн</td>
-      <td><a href="https://github.com/MaximKuznetcov/theory">Перейти</a></td>
-    </tr>
-    <tr>
-      <td>Техники тест-дизайна</td>
-      <td><a href="https://github.com/MaximKuznetcov/design">Перейти</a></td>
-    </tr>
-    <tr>
-      <td>Веб-документация</td>
-      <td><a href="https://github.com/MaximKuznetcov/docs">Перейти</a></td>
-    </tr>
-    <tr>
-      <td>Веб-тестирование</td>
-      <td><a href="https://github.com/MaximKuznetcov/Web">Перейти</a></td>
-    </tr>
-    <tr>
-      <td>API и SOAP тесты</td>
-      <td><a href="https://github.com/MaximKuznetcov/api">Перейти</a></td>
-    </tr>
-    <tr>
-      <td>Базы данных</td>
-      <td><a href="https://github.com/MaximKuznetcov/database">Перейти</a></td>
-    </tr>
-    <tr>
-      <td>Git и Bash</td>
-      <td><a href="https://github.com/MaximKuznetcov/git_bash">Перейти</a></td>
-    </tr>
-    <tr>
-      <td>Мобильное тестирование</td>
-      <td><a href="https://github.com/MaximKuznetcov/mobile-">Перейти</a></td>
-    </tr>
-  </table>
-</p>
+<table align="center">
+  <tr>
+    <th>Категория</th>
+    <th>Ссылка</th>
+  </tr>
+  <tr>
+    <td>📝 Теория и тест-дизайн</td>
+    <td><a href="https://github.com/MaximKuznetcov/theory">Перейти</a></td>
+  </tr>
+  <tr>
+    <td>🎨 Техники тест-дизайна</td>
+    <td><a href="https://github.com/MaximKuznetcov/design">Перейти</a></td>
+  </tr>
+  <tr>
+    <td>📚 Веб-документация</td>
+    <td><a href="https://github.com/MaximKuznetcov/docs">Перейти</a></td>
+  </tr>
+  <tr>
+    <td>🌐 Веб-тестирование</td>
+    <td><a href="https://github.com/MaximKuznetcov/Web">Перейти</a></td>
+  </tr>
+  <tr>
+    <td>🔌 API и SOAP тесты</td>
+    <td><a href="https://github.com/MaximKuznetcov/api">Перейти</a></td>
+  </tr>
+  <tr>
+    <td>🗄 Базы данных</td>
+    <td><a href="https://github.com/MaximKuznetcov/database">Перейти</a></td>
+  </tr>
+  <tr>
+    <td>💻 Git и Bash</td>
+    <td><a href="https://github.com/MaximKuznetcov/git_bash">Перейти</a></td>
+  </tr>
+  <tr>
+    <td>📱 Мобильное тестирование</td>
+    <td><a href="https://github.com/MaximKuznetcov/mobile-">Перейти</a></td>
+  </tr>
+</table>
 
 ---
 
