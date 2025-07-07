@@ -6,43 +6,39 @@
 
 ---
 
-<h2 align="center">🎯 Цели и интересы</h2>
+## 🎯 Цели и интересы
 
-<ul align="center">
-  <li>🚀 Развивать навыки в тестировании API, баз данных и автоматизации.</li>
-  <li>📝 Создавать удобную и понятную тестовую документацию.</li>
-  <li>🔎 Изучать новые инструменты для повышения качества работы.</li>
-</ul>
+- Развивать навыки в тестировании API, баз данных и автоматизации.
+- Создавать удобную и понятную тестовую документацию.
+- Изучать новые инструменты для повышения качества работы.
 
 ---
 
-<h2 align="center">📚 Сейчас изучаю</h2>
+## 📚 Сейчас изучаю
 
-<ul align="center">
-  <li>Postman для тестирования API</li>
-  <li>SQL и базы данных (MySQL, MongoDB)</li>
-  <li>Продвинутые техники тест-дизайна</li>
-</ul>
+- Postman для тестирования API  
+- SQL и базы данных (MySQL, MongoDB)  
+- Продвинутые техники тест-дизайна  
 
 ---
 
 <h2 align="center">🛠 Инструменты</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Postman-F44E1C?style=flat-square&logo=postman&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
 
-<h2 align="center">📂 Test Artifacts</h2>
+## 📂 Test Artifacts
 
 <p align="center">
-  <table align="center">
+  <table>
     <tr>
       <th>Категория</th>
       <th>Ссылка</th>
@@ -83,16 +79,5 @@
 </p>
 
 ---
-
-<h2 align="center">📬 Как связаться со мной</h2>
-
-<p align="center">
-  <a href="mailto:maksimkuznetcovqa@mail.ru">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/JooMaks">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-  </a>
-</p>
 
 <p align="center">Спасибо, что заглянули! 😊</p>
