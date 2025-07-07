@@ -6,61 +6,93 @@
 
 ---
 
-## 🎯 Цели и интересы
-- Развивать навыки в тестировании API, баз данных и автоматизации.
-- Создавать удобную и понятную тестовую документацию.
-- Изучать новые инструменты для повышения качества работы.
+<h2 align="center">🎯 Цели и интересы</h2>
 
-## 🚀 Сейчас изучаю
-- Postman для тестирования API
-- SQL и базы данных (MySQL, MongoDB)
-- Продвинутые техники тест-дизайна
+<ul align="center">
+  <li>🚀 Развивать навыки в тестировании API, баз данных и автоматизации.</li>
+  <li>📝 Создавать удобную и понятную тестовую документацию.</li>
+  <li>🔎 Изучать новые инструменты для повышения качества работы.</li>
+</ul>
 
-## 🛠 Инструменты
+---
+
+<h2 align="center">📚 Сейчас изучаю</h2>
+
+<ul align="center">
+  <li>Postman для тестирования API</li>
+  <li>SQL и базы данных (MySQL, MongoDB)</li>
+  <li>Продвинутые техники тест-дизайна</li>
+</ul>
+
+---
+
+<h2 align="center">🛠 Инструменты</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-F44E1C?style=flat-square&logo=postman&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="40"/>
 </p>
 
 ---
 
-## 📚 Test Artifacts
+<h2 align="center">📂 Test Artifacts</h2>
 
-| Категория | Ссылка |
-|-----------|--------|
-| Теория и тест-дизайн | [Перейти](https://github.com/MaximKuznetcov/theory) |
-| Техники тест-дизайна | [Перейти](https://github.com/MaximKuznetcov/design) |
-| Веб-документация | [Перейти](https://github.com/MaximKuznetcov/docs) |
-| Веб-тестирование | [Перейти](https://github.com/MaximKuznetcov/Web) |
-| API и SOAP тесты | [Перейти](https://github.com/MaximKuznetcov/api) |
-| Базы данных | [Перейти](https://github.com/MaximKuznetcov/database) |
-| Git и Bash | [Перейти](https://github.com/MaximKuznetcov/git_bash) |
-| Мобильное тестирование | [Перейти](https://github.com/MaximKuznetcov/mobile-) |
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaximKuznetcov&show_icons=true&theme=default&hide_title=true" />
+  <table align="center">
+    <tr>
+      <th>Категория</th>
+      <th>Ссылка</th>
+    </tr>
+    <tr>
+      <td>Теория и тест-дизайн</td>
+      <td><a href="https://github.com/MaximKuznetcov/theory">Перейти</a></td>
+    </tr>
+    <tr>
+      <td>Техники тест-дизайна</td>
+      <td><a href="https://github.com/MaximKuznetcov/design">Перейти</a></td>
+    </tr>
+    <tr>
+      <td>Веб-документация</td>
+      <td><a href="https://github.com/MaximKuznetcov/docs">Перейти</a></td>
+    </tr>
+    <tr>
+      <td>Веб-тестирование</td>
+      <td><a href="https://github.com/MaximKuznetcov/Web">Перейти</a></td>
+    </tr>
+    <tr>
+      <td>API и SOAP тесты</td>
+      <td><a href="https://github.com/MaximKuznetcov/api">Перейти</a></td>
+    </tr>
+    <tr>
+      <td>Базы данных</td>
+      <td><a href="https://github.com/MaximKuznetcov/database">Перейти</a></td>
+    </tr>
+    <tr>
+      <td>Git и Bash</td>
+      <td><a href="https://github.com/MaximKuznetcov/git_bash">Перейти</a></td>
+    </tr>
+    <tr>
+      <td>Мобильное тестирование</td>
+      <td><a href="https://github.com/MaximKuznetcov/mobile-">Перейти</a></td>
+    </tr>
+  </table>
 </p>
 
 ---
 
-## 📬 Как связаться со мной
+<h2 align="center">📬 Как связаться со мной</h2>
+
 <p align="center">
   <a href="mailto:maksimkuznetcovqa@mail.ru">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://t.me/JooMaks">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
   </a>
 </p>
-
----
 
 <p align="center">Спасибо, что заглянули! 😊</p>
