@@ -11,14 +11,6 @@
 
 <hr/>
 
-<h2 align="center">📄 My CV</h2>
-
-<p align="center">
-  <a href="https://github.com/MaximKuznetcov/MaximKuznetcov/raw/main/assets/My_CV.pdf" target="_blank">📎 Open CV (PDF)</a>
-</p>
-
-<hr/>
-
 <h2>💬 Немного обо мне</h2>
 
 <table>
@@ -60,6 +52,12 @@
   <tr><td>Git и Bash</td><td><a href="https://github.com/MaximKuznetcov/git_bash">Перейти</a></td></tr>
   <tr><td>Мобильное тестирование</td><td><a href="https://github.com/MaximKuznetcov/mobile-">Перейти</a></td></tr>
 </table>
+
+<hr/>
+
+<h2 align="center">
+  <a href="https://github.com/MaximKuznetcov/MaximKuznetcov/raw/main/My_CV.pdf" target="_blank">📄 Моё резюме</a>
+</h2>
 
 <hr/>
 
