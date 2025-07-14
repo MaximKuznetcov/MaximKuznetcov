@@ -56,7 +56,7 @@
 <hr/>
 
 <h2 align="center">
-  <a href="https://github.com/MaximKuznetcov/MaximKuznetcov/raw/main/My_CV.pdf" target="_blank">📄 Моё резюме</a>
+  <a href="https://github.com/MaximKuznetcov/MaximKuznetcov/raw/main/assets/My_CV.pdf" target="_blank">📄 Моё резюме</a>
 </h2>
 
 <hr/>
