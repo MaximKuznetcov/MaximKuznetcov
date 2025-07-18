@@ -15,16 +15,17 @@
   <a href="https://github.com/MaximKuznetcov/MaximKuznetcov/blob/main/My_CV.pdf?raw=true" target="_blank">📄 Моё резюме</a>
 </h2>
 
-<h2 align="center">📫 Связь</h2>
+<h2 align="center">📬 Связь</h2>
 
 <p align="center">
-  <a href="mailto:maksimkuznetsovqa@mail.ru" target="_blank">📧 Email</a> • 
-  <a href="https://t.me/JooMaks" target="_blank">💬 Telegram</a> • 
-  <a href="https://www.linkedin.com/in/maksim-kuznetsov-qa" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         width="18" height="18"
-         alt="LinkedIn"
-         style="vertical-align: text-bottom; position: relative; top: 1px;" />
+  <a href="mailto:maksimkuznetsovqa@mail.ru" target="_blank">
+    <img src="https://img.icons8.com/color/20/000000/apple-mail.png" alt="Email" style="vertical-align:middle;"/> Email
+  </a> • 
+  <a href="https://t.me/JooMaks" target="_blank">
+    <img src="https://img.icons8.com/color/20/000000/telegram-app--v1.png" alt="Telegram" style="vertical-align:middle;"/> Telegram
+  </a> • 
+  <a href="https://www.linkedin.com/in/maksim-kuznetcov" target="_blank">
+    <img src="https://img.icons8.com/color/20/000000/linkedin.png" alt="LinkedIn" style="vertical-align:middle;"/> LinkedIn
   </a>
 </p>
 
