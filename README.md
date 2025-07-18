@@ -3,10 +3,29 @@
 </p>
 
 <p>
-  QA-инженер начального уровня, практикуюсь в ручном тестировании веб-продуктов, мобильных приложений и API.<br/>
+  QA-инженер, практикуюсь в ручном тестировании веб-продуктов, мобильных приложений и API.<br/>
   В работе использую Postman, Swagger, Charles, базы данных, баг-трекеры и DevTools.<br/>
   Ценю структурность, внимательность к деталям и глубокое понимание продукта.<br/>
   Постоянно совершенствую навыки и нацелен на рост в профессии.
+</p>
+
+<hr/>
+
+<h2 align="center">
+  <a href="https://github.com/MaximKuznetcov/MaximKuznetcov/blob/main/My_CV.pdf?raw=true" target="_blank">📄 Моё резюме</a>
+</h2>
+
+<h2 align="center">📫 Связь</h2>
+
+<p align="center">
+  <a href="mailto:maksimkuznetsovqa@mail.ru" target="_blank">📧 Email</a> • 
+  <a href="https://t.me/JooMaks" target="_blank">💬 Telegram</a> • 
+  <a href="https://www.linkedin.com/in/maksim-kuznetsov-qa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="18" height="18"
+         alt="LinkedIn"
+         style="vertical-align: text-bottom; position: relative; top: 1px;" />
+  </a>
 </p>
 
 <hr/>
@@ -54,18 +73,5 @@
 </table>
 
 <hr/>
-
-<h2 align="center">
-  <a href="https://github.com/MaximKuznetcov/MaximKuznetcov/blob/main/My_CV.pdf?raw=true" target="_blank">Моё резюме</a>
-</h2>
-
-<hr/>
-
-<h2 align="center">📫 Связь</h2>
-
-<p align="center">
-  <a href="mailto:maksimkuznetsovqa@mail.ru" target="_blank">📧 Email</a> • 
-  <a href="https://t.me/JooMaks" target="_blank">💬 Telegram</a>
-</p>
 
 <p align="center">Спасибо, что заглянули! 😊</p>
