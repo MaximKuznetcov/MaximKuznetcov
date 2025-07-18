@@ -12,7 +12,7 @@
 <hr/>
 
 <h2 align="center">
-  <a href="https://github.com/MaximKuznetcov/MaximKuznetcov/blob/main/My_CV.pdf?raw=true" target="_blank">📄 Моё резюме</a>
+ <a href="https://github.com/MaximKuznetcov/MaximKuznetcov/blob/main/Кузнецов_resume.pdf?raw=true" target="_blank">Моё резюме</a>
 </h2>
 
 <h2 align="center">📬 Связь</h2>
